@@ -38,4 +38,7 @@ Always open to interesting conversations and collaboration.
   <a href="https://boninugraha.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <a href="https://www.credly.com/users/boninugraha/badges" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20%26%20GCP%20Certifications-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Certifications" />
+  </a>
 </p>
